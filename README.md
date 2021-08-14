@@ -1,6 +1,6 @@
 ## Olá! Me chamo Douglas Freitas
 
-- Sou formado em Análise e desenvolvimento de sistemas 👨‍🎓
+- Análise e desenvolvimento de sistemas 👨‍🎓
 - Estudando Python ✔
 
 
