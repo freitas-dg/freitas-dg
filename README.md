@@ -1,6 +1,6 @@
 ## Olá! Me chamo Douglas Freitas
 
-- Ciencia da Computação 1/8 👨‍🎓
+- Ciência da Computação 1/8 👨‍🎓
 - Estudando Python ✔
 
  <div>
