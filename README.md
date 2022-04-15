@@ -1,7 +1,6 @@
 ## Olá! Me chamo Douglas Freitas
 
 - Ciência da Computação 1/8 👨‍🎓
-- Estudando Python ✔
 
  <div>
   <a href="https://github.com/Douglas318">
